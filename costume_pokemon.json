@@ -1,0 +1,54 @@
+{
+  "costume_pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "family": "Bulbasaur",
+      "generation": 1,
+      "reigon": "kanto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_pm0001_00_pgo_fall2019.png"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "family": "Bulbasaur",
+      "generation": 1,
+      "reigon": "kanto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_001_00_11.png"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "family": "Bulbasaur",
+      "generation": 1,
+      "reigon": "kanto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_001_00_14.png"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "family": "Charmander",
+      "generation": 1,
+      "reigon": "kanto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_pm0004_00_pgo_fall2019.png"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "family": "Charmander",
+      "generation": 1,
+      "reigon": "kanto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_004_00_11.png"
+      }
+    }
+  ]
+}
